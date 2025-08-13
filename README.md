@@ -1,7 +1,7 @@
 # AI-Powered-Interactive-Quiz-Platform-from-Document-Data
 # PDF Quiz Generator Web App
 
-#Website URL - https://ai-powered-interactive-quiz-platform-from-document-data.streamlit.app
+# Website URL - https://ai-powered-interactive-quiz-platform-from-document-data.streamlit.app
 
 A web application that extracts text from PDF documents and automatically generates quizzes using AI.  
 Built with **Python**, **Streamlit**, and **OpenAI API**, this tool helps in creating educational quizzes from study materials, reports, or any PDF content.
